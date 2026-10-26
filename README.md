@@ -1,2 +1,2 @@
 # Hegels-System
-A Philosophical Critique of Foundational Necessity in Hegel's Science of Logic
+The Legitimacy of Foundational Necessity in the Science of Logic
